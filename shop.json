@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "FounaShop",
+    "icon_url": "http://shop.founa.com/images/famille/Epicerie1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "HYGIÈNE ET SOIN",
+    "icon_url": "http://shop.founa.com/images/famille/Soin_Visage.jpg"
+  },
+  {
+    "id": 3,
+    "name": "MAISON ET ENTRETIEN",
+    "icon_url": "http://shop.founa.com/images/famille/artdetable.jpg"
+  },
+  {
+    "id": 4,
+    "name": "AUTOUR DE BÉBÉ",
+    "icon_url": "http://shop.founa.com/images/famille/lessivepourbebe.jpg"
+  },
+  {
+    "id": 5,
+    "name": "BEAUTÉ ET COSMÉTIQUE",
+    "icon_url": "http://shop.founa.com/images/famille/maquillage.jpg"
+  }
+]
