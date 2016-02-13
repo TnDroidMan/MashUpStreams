@@ -1,0 +1,238 @@
+[
+{"id": 1,"name": "Epicerie", "icon_url": "http://shop.founa.com/images/famille/Epicerie.jpg","list":
+[
+  {
+    "id": 1,
+    "name": "Cuisine du monde",
+    "icon_url": "http://shop.founa.com/images/famille/cuisinedumonde.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 2,
+    "name": "Laits, Oeufs et Fromages fondus",
+    "icon_url": "http://shop.founa.com/images/famille/laitsoeufsetfromagesfondus.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 3,
+    "name": "Pain, Biscottes et Viennoiseries",
+    "icon_url": "http://shop.founa.com/images/famille/painbiscottesetviennoiseries.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 4,
+    "name": "Goûter et Biscuits",
+    "icon_url": "http://shop.founa.com/images/famille/gouteretbiscuits.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 5,
+    "name": "Chips et Apéritif",
+    "icon_url": "http://shop.founa.com/images/famille/chipsetaperitif.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 6,
+    "name": "Confiserie et chocolat",
+    "icon_url": "http://shop.founa.com/images/famille/confiserieetchocolat.jpg",
+    "is_category": 1
+  },
+     {
+    "id": 7,
+    "name": "Sucre, farine et aide à la pâtissière",
+    "icon_url": "http://shop.founa.com/images/famille/sucrefarineetaidealapatissiere.jpg",
+    "is_category": 1
+  },
+     {
+    "id": 8,
+    "name": "Pâtes, Riz, Semoules, Chorba",
+    "icon_url": "http://shop.founa.com/images/famille/patesrizsemouleschorba.jpg",
+    "is_category": 1
+  },
+  
+     {
+    "id": 9,
+    "name": "Fruits et légumes Secs",
+    "icon_url": "http://shop.founa.com/images/famille/fruitsetlegumessecs.jpg",
+    "is_category": 1
+  },
+  
+     {
+    "id": 10,
+    "name": "Huiles et Vinaigres",
+    "icon_url": "http://shop.founa.com/images/famille/huilesetvinaigres.jpg",
+    "is_category": 1
+  },
+  
+     {
+    "id": 11,
+    "name": "Condiments",
+    "icon_url": "http://shop.founa.com/images/famille/condiments.jpg",
+    "is_category": 1
+  },
+  
+     {
+    "id": 12,
+    "name": "Epices et Herbes",
+    "icon_url": "http://shop.founa.com/images/famille/epicesetherbes.jpg",
+    "is_category": 1
+  },
+  
+      {
+    "id": 13,
+    "name": "Conserves et Bocaux",
+    "icon_url": "http://shop.founa.com/images/famille/conservesetbocaux.jpg",
+    "is_category": 1
+  }
+  
+  
+]},
+
+{"id": 2,"name": "Petit déjeuner", "icon_url": "http://shop.founa.com/images/famille/Petit_dejeuner.jpg","list":
+[
+  {
+    "id": 1,
+    "name": "Lait",
+    "icon_url": "http://shop.founa.com/images/famille/lait.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 2,
+    "name": "Céréales",
+    "icon_url": "http://shop.founa.com/images/famille/cereales.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 3,
+    "name": "Café",
+    "icon_url": "http://shop.founa.com/images/famille/cafe.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 4,
+    "name": "Thés et Infusions",
+    "icon_url": "http://shop.founa.com/images/famille/thesetinfusions.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 5,
+    "name": "Chocolat en poudre",
+    "icon_url": "http://shop.founa.com/images/famille/chocolatinstantaneenpoudre.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 6,
+    "name": "Sucre",
+    "icon_url": "http://shop.founa.com/images/famille/sucre.jpg",
+    "is_category": 1
+  },
+     {
+    "id": 7,
+    "name": "Confitures",
+    "icon_url": "http://shop.founa.com/images/famille/confitures.jpg",
+    "is_category": 1
+  },
+     {
+    "id": 8,
+    "name": "Pâtes à tartiner et Miel",
+    "icon_url": "http://shop.founa.com/images/famille/patesatartineretmiel.jpg",
+    "is_category": 1
+  },
+  
+     {
+    "id": 9,
+    "name": "Chamia",
+    "icon_url": "http://shop.founa.com/images/famille/chamia.jpg",
+    "is_category": 1
+  },
+  
+     {
+    "id": 10,
+    "name": "Pains, Biscottes et Viennoiseries",
+    "icon_url": "http://shop.founa.com/images/famille/painsbiscottesetviennoiseries.jpg",
+    "is_category": 1
+  },
+  
+     {
+    "id": 11,
+    "name": "Biscuits",
+    "icon_url": "http://shop.founa.com/images/famille/biscuits.jpg",
+    "is_category": 1
+  },
+  
+     {
+    "id": 12,
+    "name": "Jus et Nectars",
+    "icon_url": "http://shop.founa.com/images/famille/jusetnectars.jpg",
+    "is_category": 1
+  }
+  
+
+  
+  
+]}
+
+,
+
+{"id": 3,"name": "Viandes, Volailles, Poissons", "icon_url": "http://shop.founa.com/images/famille/Viandes_Volailles_Poissons.jpg","list":
+[
+  {
+    "id": 1,
+    "name": "Poissons",
+    "icon_url": "http://shop.founa.com/images/famille/poissons.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 2,
+    "name": "Fruits de Mer",
+    "icon_url": "http://shop.founa.com/images/famille/fruitsdemer.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 3,
+    "name": "Viande d'agneau",
+    "icon_url": "http://shop.founa.com/images/famille/viandedagneau.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 4,
+    "name": "Viande de Boeuf",
+    "icon_url": "http://shop.founa.com/images/famille/viandedeboeuf.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 5,
+    "name": "Poulet",
+    "icon_url": "http://shop.founa.com/images/famille/poulet.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 6,
+    "name": "Dinde",
+    "icon_url": "http://shop.founa.com/images/famille/dinde.jpg",
+    "is_category": 1
+  },
+     {
+    "id": 7,
+    "name": "Charcuterie sous-vide",
+    "icon_url": "http://shop.founa.com/images/famille/charcuteriesousvide.jpg",
+    "is_category": 1
+  },
+     {
+    "id": 8,
+    "name": "Charcuterie importée",
+    "icon_url": "http://shop.founa.com/images/famille/charcuterieitalienne.jpg",
+    "is_category": 1
+  },
+  
+     {
+    "id": 9,
+    "name": "Canard",
+    "icon_url": "http://shop.founa.com/images/famille/canard.jpg",
+    "is_category": 1
+  }
+  
+
+ ]}
+]
+
