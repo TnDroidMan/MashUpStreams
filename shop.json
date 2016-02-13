@@ -1,21 +1,21 @@
 [
   {
-    "id": 1,
+    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/founshop.json",
     "name": "FounaShop",
     "icon_url": "http://shop.founa.com/images/famille/Epicerie1.jpg"
   },
   {
-    "id": 2,
+    "id":"https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/founshop.json" ,
     "name": "HYGIÈNE ET SOIN",
     "icon_url": "http://shop.founa.com/images/famille/Soin_Visage.jpg"
   },
   {
-    "id": 3,
+    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/founshop.json",
     "name": "MAISON ET ENTRETIEN",
     "icon_url": "http://shop.founa.com/images/famille/artdetable.jpg"
   },
   {
-    "id": 4,
+    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/founshop.json",
     "name": "AUTOUR DE BÉBÉ",
     "icon_url": "http://shop.founa.com/images/famille/lessivepourbebe.jpg"
   },
