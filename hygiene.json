@@ -1,0 +1,65 @@
+[
+
+
+{"id": 3,"name": "HYGIÈNE ET SOIN", "icon_url": "http://shop.founa.com/images/famille/Soin_Visage.jpg","list":
+[
+  {
+    "id": 1,
+    "name": "Beauté des mains et des pieds",
+    "icon_url": "http://shop.founa.com/images/famille/soinmainetpied.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 2,
+    "name": "Rasage et épilation",
+    "icon_url": "http://shop.founa.com/images/famille/epilationrasage.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 3,
+    "name": "Soin Du Corps",
+    "icon_url": "http://shop.founa.com/images/famille/Soin_Corps.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 4,
+    "name": "Soin du Visage",
+    "icon_url": "http://shop.founa.com/images/famille/Soin_Visage.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 5,
+    "name": "Soin des Cheveux",
+    "icon_url": "http://shop.founa.com/images/famille/Soin_Cheveux.jpg",
+    "is_category": 1
+  },
+    {
+    "id": 6,
+    "name": "Hygiène intime",
+    "icon_url": "http://shop.founa.com/images/famille/Hygiene_intime.jpg",
+    "is_category": 1
+  },
+     {
+    "id": 7,
+    "name": "Homme",
+    "icon_url": "http://shop.founa.com/images/famille/Soins_Homme.jpg",
+    "is_category": 1
+  },
+     {
+    "id": 8,
+    "name": "La Toilette",
+    "icon_url": "http://shop.founa.com/images/famille/La_Toilette.jpg",
+    "is_category": 1
+  },
+  
+     {
+    "id": 9,
+    "name": "Papiers et Cotons",
+    "icon_url": "http://shop.founa.com/images/famille/Papiers_Cotons.jpg",
+    "is_category": 1
+  }
+  
+
+ ]}
+]
+
