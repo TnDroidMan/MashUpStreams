@@ -1,0 +1,40 @@
+[
+  {
+"id": 0,
+    "name": "Chiens",
+    "icon_url": "http://shop.founa.com/images/famille/chiens.jpg",
+"list": 
+[
+  {
+    "id": 0,
+    "name": "Chiens",
+    "icon_url": "http://shop.founa.com/images/famille/chiens.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 1,
+    "name": "Chats",
+    "icon_url": "http://shop.founa.com/images/famille/chats.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 2,
+    "name": "Poissons",
+    "icon_url": "http://shop.founa.com/images/famille/poissonsanimalerie.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 3,
+    "name": "Oiseaux",
+    "icon_url": "http://shop.founa.com/images/famille/oiseaux.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 4,
+    "name": "Hamsters",
+    "icon_url": "http://shop.founa.com/images/famille/hamsters.jpg",
+    "is_category": 1
+  }
+]
+  }
+]
