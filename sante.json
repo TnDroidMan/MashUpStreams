@@ -1,0 +1,48 @@
+[
+
+  {
+   "id": 0,
+    "name": "Santé et Parapharmacie",
+    "icon_url": "http://shop.founa.com/images/famille/produitssolaires.jpg",
+    "list": 
+[
+
+  {
+    "id": 0,
+    "name": "Solaires et antimoustiques",
+    "icon_url": "http://shop.founa.com/images/famille/produitssolaires.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 1,
+    "name": "Bucco-dentaire",
+    "icon_url": "http://shop.founa.com/images/famille/buccodentaire.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 2,
+    "name": "Soin et Beauté",
+    "icon_url": "http://shop.founa.com/images/famille/soinetbeaute.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 3,
+    "name": "Bébé et Maman",
+    "icon_url": "http://shop.founa.com/images/famille/bebeetmaman.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 4,
+    "name": "Compléments alimentaires",
+    "icon_url": "http://shop.founa.com/images/famille/complementsalimentaires.jpg",
+    "is_category": 1
+  },
+  {
+    "id": 5,
+    "name": "Premiers soins",
+    "icon_url": "http://shop.founa.com/images/famille/premierssoin.jpg",
+    "is_category": 1
+  }
+]
+  }
+]
