@@ -20,7 +20,7 @@
     "icon_url": "http://shop.founa.com/images/famille/lessivepourbebe.jpg"
   },
   {
-    "id": 5,
+    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/founshop.json",
     "name": "BEAUTÉ ET COSMÉTIQUE",
     "icon_url": "http://shop.founa.com/images/famille/maquillage.jpg"
   }
