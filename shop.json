@@ -5,7 +5,7 @@
     "icon_url": "http://shop.founa.com/images/famille/Epicerie1.jpg"
   },
   {
-    "id":"https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/hygiene.json" ,
+    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/hygiene.json",
     "name": "Hygiène et Soin",
     "icon_url": "http://shop.founa.com/images/famille/Soin_Visage.jpg"
   },
@@ -24,8 +24,9 @@
     "name": "Beauté et Cosmétique",
     "icon_url": "http://shop.founa.com/images/famille/maquillage.jpg"
   },
-    {
-"id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/animaux.json",
-    "name": "Chiens",
-    "icon_url": "http://shop.founa.com/images/famille/chiens.jpg"}
+  {
+    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/animaux.json",
+    "name": "Le monde des animaux",
+    "icon_url": "http://shop.founa.com/images/famille/chiens.jpg"
+  }
 ]
