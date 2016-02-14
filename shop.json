@@ -24,4 +24,8 @@
     "name": "Beauté et Cosmétique",
     "icon_url": "http://shop.founa.com/images/famille/maquillage.jpg"
   }
+    {
+"id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/animaux.json",
+    "name": "Chiens",
+    "icon_url": "http://shop.founa.com/images/famille/chiens.jpg"}
 ]
