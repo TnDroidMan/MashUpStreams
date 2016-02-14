@@ -27,8 +27,7 @@
   {
     "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/sante.json",
     "name": "Santé et Parapharmacie",
-    "icon_url": "http://shop.founa.com/images/famille/produitssolaires.jpg",
-    
+    "icon_url": "http://shop.founa.com/images/famille/produitssolaires.jpg"
   },
   {
     "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/animaux.json",
