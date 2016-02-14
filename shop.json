@@ -6,22 +6,22 @@
   },
   {
     "id":"https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/hygiene.json" ,
-    "name": "HYGIÈNE ET SOIN",
+    "name": "Hygiène et Soin",
     "icon_url": "http://shop.founa.com/images/famille/Soin_Visage.jpg"
   },
   {
     "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/maison.json",
-    "name": "MAISON ET ENTRETIEN",
+    "name": "Maison et Entretien",
     "icon_url": "http://shop.founa.com/images/famille/artdetable.jpg"
   },
   {
     "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/bebe.json",
-    "name": "AUTOUR DE BÉBÉ",
+    "name": "Autour de Bébé",
     "icon_url": "http://shop.founa.com/images/famille/lessivepourbebe.jpg"
   },
   {
-    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/founshop.json",
-    "name": "BEAUTÉ ET COSMÉTIQUE",
+    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/cosmetic",
+    "name": "Beauté et Cosmétique",
     "icon_url": "http://shop.founa.com/images/famille/maquillage.jpg"
   }
 ]
