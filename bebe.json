@@ -28,13 +28,8 @@
     "name": "Bio et Naturel",
     "icon_url": "http://shop.founa.com/images/famille/lebiodebebe.jpg",
     "is_category": 1
-  },
-  {
-    "id": 4,
-    "name": "Beurre et Margarine",
-    "icon_url": "http://shop.founa.com/photos/3/a1.jpg",
-    "is_category": 1
   }
+ 
 ]
   }
 ]
