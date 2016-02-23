@@ -1,0 +1,26 @@
+[
+  {
+    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/mexicaine.json",
+    "name": "Mexicaine",
+    "icon_url": "http://shop.founa.com/images/famille/cuisinemexicaine.jpg",
+    "is_category": 1
+  },
+  {
+      "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/italienne.json",
+    "name": "Italienne",
+    "icon_url": "http://shop.founa.com/images/famille/italienne.jpg",
+    "is_category": 1
+  },
+  {
+      "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/fransaise.json",
+    "name": "Française",
+    "icon_url": "http://shop.founa.com/images/famille/francaise.jpg",
+    "is_category": 1
+  },
+  {
+    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/tunisienne.json",
+    "name": "Traditionelle Tunisienne",
+    "icon_url": "http://shop.founa.com/images/famille/tunisienne.jpg",
+    "is_category": 1
+  }
+]
