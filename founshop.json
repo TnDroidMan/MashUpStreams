@@ -2,7 +2,7 @@
 {"id": 1,"name": "Epicerie", "icon_url": "http://shop.founa.com/images/famille/Epicerie.jpg","list":
 [
   {
-    "id": 1,
+    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/cuisine.json",
     "name": "Cuisine du monde",
     "icon_url": "http://shop.founa.com/images/famille/cuisinedumonde.jpg",
     "is_category": 1
