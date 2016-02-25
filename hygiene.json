@@ -4,10 +4,11 @@
 {"id": 3,"name": "Hygiène et Soin", "icon_url": "http://shop.founa.com/images/famille/Soin_Visage.jpg","list":
 [
   {
-    "id": 1,
+    "id": "https://raw.githubusercontent.com/TnDroidMan/MashUpStreams/master/mexicaine.json",
     "name": "Beauté des mains et des pieds",
     "icon_url": "http://shop.founa.com/images/famille/soinmainetpied.jpg",
     "is_category": 1
+    "has_subcategory": 2
   },
   {
     "id": 2,
